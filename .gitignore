@@ -120,3 +120,4 @@ venv_/
 #visual studio code
 .vscode
 jira_test.py
+jira_card_test.py
