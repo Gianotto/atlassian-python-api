@@ -119,3 +119,4 @@ venv_/
 .secrets/
 #visual studio code
 .vscode
+jira_test.py

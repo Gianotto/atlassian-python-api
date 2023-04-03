@@ -1,7 +1,7 @@
 from atlassian import Jira
 import json
 
-jira = Jira(url='https://johndeerejira.atlassian.net', username='gianottovictors@johndeere.com', password='=29E42851', cloud=True)
+jira = Jira(url='https://johndeerejira.atlassian.net', username='gianottovictors@johndeere.com', password='ATATT3xFfGF0hztkxy7x8xb9IaOdrEY5r9kra94hcd_fCdeZgSACphBlFVMSeMGrlW1wKlwurYgDWYadA2E8BYukYNli9C0KrEuCLKGaPMlJIQVnrmn9sGOsDKtO4Zb1W7lTEUsMhtgSE8WSqluVatJohd9ZVtM_29VDstJS2go8qIB3e3DI5Yo=29E42851', cloud=True)
 
 # JQL method
 #jql_request = "project = SAPX AND issuetype = Task"
